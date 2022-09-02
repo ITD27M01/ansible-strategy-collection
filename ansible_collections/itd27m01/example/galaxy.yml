@@ -1,0 +1,19 @@
+---
+namespace: itd27m01
+name: example
+description: Ansible collection for proof of concept
+version: 0.1.0
+readme: README.md
+authors:
+  - ITD27M01
+
+tags:
+  - ansible
+
+repository: https://github.com/itd27m01/ansible-strategy-collection.git
+homepage: https://github.com/itd27m01/ansible-strategy-collection.git
+issues: https://github.com/itd27m01/ansible-strategy-collection/issues
+
+build_ignore:
+  - '*.tar.gz'
+  - '*.pyc'
