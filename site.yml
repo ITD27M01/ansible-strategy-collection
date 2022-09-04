@@ -6,6 +6,6 @@
 
 - name: Check strategy plugin
   hosts: localhost
-  strategy: itd27m01.example.poc
+  strategy: itd27m01.example.mitogen_linear
   tasks:
     - ping:
